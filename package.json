@@ -1,0 +1,19 @@
+{
+  "name": "back_side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expess": "0.0.1-security",
+    "mongodb": "^4.0.0",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12"
+  }
+}
